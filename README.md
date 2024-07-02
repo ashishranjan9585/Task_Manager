@@ -27,8 +27,7 @@ This project is a simple Task Management Application built with the MERN (MongoD
 - React.js
 - Node.js
 - Tailwind CSS
-- JWT (JSON Web Token)
-- bcryptjs
+
 
 ## Setup Instructions
 
@@ -124,12 +123,6 @@ This project is a simple Task Management Application built with the MERN (MongoD
 3. View task details by clicking on a task title.
 4. Edit or delete tasks using the corresponding buttons on the task details page.
 
-## API Endpoints
-
-### Auth Routes
-
-- Register a new user: `POST /api/auth/register`
-- Login user: `POST /api/auth/login`
 
 ### Task Routes (Protected)
 
