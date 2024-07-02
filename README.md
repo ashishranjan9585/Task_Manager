@@ -1,6 +1,6 @@
 # Task Management Application
 
-This project is a simple Task Management Application built with the MERN (MongoDB, Express, React, Node.js) stack. It allows users to create, read, update, and delete tasks with user authentication using JWT (JSON Web Token).
+This project is a simple Task Management Application built with the MERN (MongoDB, Express, React, Node.js) stack. It allows users to create, read, update, and delete tasks .
 
 ## Table of Contents
 
@@ -14,8 +14,7 @@ This project is a simple Task Management Application built with the MERN (MongoD
 
 ## Features
 
-- User Authentication (Register, Login)
-- JWT Token Verification
+
 - Create, Read, Update, Delete (CRUD) tasks
 - Responsive design using Tailwind CSS
 - Protected routes for authenticated users
